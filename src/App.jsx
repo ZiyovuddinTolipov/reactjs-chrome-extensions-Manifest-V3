@@ -1,7 +1,9 @@
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div className="w-[400px] h-[500px] bg-blue-950 home-page">
+      <div className="bg-black/10 backdrop-blur-md h-[100%]">
+        <h2 className="text-2xl text-center text-white font-semibold">Tolipov Ziyovuddin</h2> 
+      </div>
+    </div>
   )
 }
